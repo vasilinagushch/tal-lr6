@@ -1,0 +1,37 @@
+int r = 10;
+
+struct Point {
+    int x;
+    int y;
+};
+
+int main() {
+    int a = 1;
+
+    a = (5 +(((((6)))))) ;
+
+    Point b1;
+
+    do {
+        a = a + 1;
+   do {
+        a = a + 1;
+   do {
+   do {
+   do {
+        a = a + 1;
+    } while(a < 5);
+        a = a + 1;
+    } while(a < 5);
+        a = a + 1;
+    } while(a < 5);
+    } while(a < 5);
+    } while(a < 5);
+
+    struct fff{
+        int x;
+    };
+
+    int x;;;;;
+}
+int t;
